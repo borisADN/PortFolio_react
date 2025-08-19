@@ -1,8 +1,8 @@
 # Portfolio en ReactJs
 
-Portfolio bien stylé en utilisant le Framework React Js
+Portfolio bien stylé en utilisant le Framework React Js.
 
-Vraiment Reconnaissant 🙏
+Animations extrêmement fluides garanties.
 
 Our Work.
 
